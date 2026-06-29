@@ -1,3 +1,8 @@
+/*Given two non-empty linked lists linkedList1 and linkedList2 which represent two non-negative integers.
+The digits are stored in reverse order with each node storing one digit.
+Add two numbers and return the sum as a linked list.
+The sum Linked List will be in reverse order as well.
+The Two given Linked Lists represent numbers without any leading zeros, except when the number is zero itself. */
 public class add_2_LL {
     class ListNode{
     public int data;
