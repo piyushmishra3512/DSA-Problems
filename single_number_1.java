@@ -8,7 +8,7 @@ public class single_number_1 {
 
         }
         return num;
-        //your code goes here
+        
     }
     
 }
